@@ -1,6 +1,6 @@
 const help = (prefix) => {
 	 return `
-┏ ❣ 🌺⃟⃘͜͡꙰❦ོ❮ΝᎪᏦᎪΝϴ-ᎷᏆᏦႮ❯░⃟🌺 ❣
+┏ ❣🌺⃟⃘͜͡꙰❦ོ❮ΝᎪᏦᎪΝϴ-ᎷᏆᏦႮ❯░⃟🌺❣
 ╿
 ┷┯ ☾ Group Commands ☽
    ╽
@@ -9,6 +9,8 @@ const help = (prefix) => {
    ┠❥ *.promote @tagmember*
    ┠❥ *.demote @tagadmin*
    ┠❥ *.linkgroup*
+   ┠❥ *.listadmin*
+   ┠❥ *welcome 1 O 0*
    ╿
 ┯┷ ☾ otros coamandos ☽
 ╽
@@ -18,6 +20,7 @@ const help = (prefix) => {
 ┠❥ *.info*
 ┠❥ *.meme*
 ┠❥ *.gtts [idioma][texto]*
+┠❥ *.toimg*
 ╿
 ┷┯ 
 ╰╼❥ PROXIMAMENTE MAS!!.`
